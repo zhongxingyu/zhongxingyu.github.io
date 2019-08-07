@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Zhongxing Yu's research
 ---
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>[Learning the Relation between Code Features and Code Transforms with Structured Prediction] (https://arxiv.org/abs/1907.09282)</u>
+*Zhongxing Yu*,  Matias Martinez, Tegawendé f. Bissyandé, Martin Monperrus. Under Review at POPL 2020
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
