@@ -22,6 +22,8 @@ His general research interests are in programming language, software engineering
         <div class="span5">
             Zhongxing Yu<br/>
             Email: zhoyu at kth dot se<br/>
+            Address: EECS, KTH Royal Institute of Technology<br/>
+                  Lindstedtsvagen 3, 10044 Stockholm, Sweden<br/>
         </div>
 
         <div class="span2">
@@ -36,6 +38,7 @@ His general research interests are in programming language, software engineering
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="https://scholar.google.fr/citations?user=kXl61c4AAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://github.com/zhongxingyu">GitHub</a></li>
       </ul>
   </div>
