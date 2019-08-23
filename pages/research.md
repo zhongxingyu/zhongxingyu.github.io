@@ -12,9 +12,9 @@ description: Zhongxing Yu's research
 Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus. 
 <i>Major Revision at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
 
-<b>[A Snowballing Literature Study on Test Amplification](https://arxiv.org/abs/1705.10692)</b> <br> 
+<b>[A Snowballing Literature Study on Test Amplification](https://www.sciencedirect.com/science/article/pii/S0164121219301736)</b> <br> 
 Benjamin Danglot, Oscar Vera-Perez, <b>Zhongxing Yu</b>, Andy Zaidman, Martin Monperrus, and Benoit Baudry.
-<i>Minor Revision at Journal of Systems and Software</i>. <b>(JSS)</b>. 
+<i>Journal of Systems and Software (Online First, August 2019) </i>. <b>(JSS)</b>. 
 
 <b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
 <b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus.

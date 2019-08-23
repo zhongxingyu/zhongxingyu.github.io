@@ -23,7 +23,7 @@ His general research interests are in programming language, software engineering
             Zhongxing Yu<br/>
             Email: zhoyu at kth dot se or yuzhongxing88 at gmail dot com<br/>
             Address: EECS, KTH Royal Institute of Technology<br/>
-              &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp; Lindstedtsvagen 3, 10044 Stockholm, Sweden<br/>
+              &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;  Lindstedtsvagen 3, 10044 Stockholm, Sweden<br/>
         </div>
 
         <div class="span2">
