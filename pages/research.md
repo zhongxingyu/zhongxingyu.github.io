@@ -6,7 +6,7 @@ description: Zhongxing Yu's research
 
 <b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction](https://arxiv.org/abs/1907.09282)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Tegawendé f. Bissyandé, and Martin Monperrus.
-<i>Under Review at 47th ACM SIGPLAN Symposium on Principles of Programming Languages</i>. <b>(POPL 2020)</b>. 
+<i>To be submitted to 41st ACM SIGPLAN Conference on Programming Language Design and Implementation</i>. <b>(PLDI 2020)</b>. 
 
 <b>[Production-Driven Patch Generation and Validation]({{ BASE_PATH}}/pages/submitted_papers/TOSEM-submission.pdf)</b> <br> 
 Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus. 
