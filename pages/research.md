@@ -41,7 +41,7 @@ Thomas Durieux, Youssef Hamadi, <b>Zhongxing Yu</b>, Benoit Baudry, and Martin M
 <i>Information and Software Technology Journal</i>. <b>(IST)</b>.
 
 <b>[The approach of graphical user interface testing guided by bayesian model](https://link.springer.com/chapter/10.1007/978-3-319-01766-2_44)</b> <br> 
-<b>Zhifang Yang, Zhongxing Yu</b>, and Chenggang Bai. 
+Zhifang Yang, <b>Zhongxing Yu</b>, and Chenggang Bai. 
 <i>Proceedings of the 2013 International Conference on Computer Engineering and Network</i>. <b>(CENet 2013)</b>.
 
 <b>[3-Way GUI Test Cases Generation Based on Event-Wise Partitioning](https://ieeexplore.ieee.org/abstract/document/6319229)</b> <br> 
