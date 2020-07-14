@@ -25,8 +25,8 @@ I am actively looking for self-motivated and talented students at different leve
         <div class="span5">
             Zhongxing Yu<br/>
             Email: zhongxing.yu@sdu.edu.cn<br/>
-            Address: School of Computer Science and Technology, Shandong University<br/>
-              &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;  72 Bihai Road, Jimo, Qingdao, P.R. China<br/>
+            Address: School of Computer Science and Technology<br/>
+              &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp; Shandong University, 72 Bihai Road, Jimo, Qingdao, P.R. China<br/>
         </div>
 
         <div class="span2">
