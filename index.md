@@ -13,7 +13,7 @@ My general research interests are in programming language, software engineering,
 
 
 
-<text color="red">I am actively looking for self-motivated and talented students at different levels (PhD students, post-docs, master students, undergratuate students) to join my research group, students that are good at programming and(or) enjoy working on the formal side of programming are especially welcome.</text> We aim at tackling crucial, pressing, difficult problems via principled, elegant, practical solutions. Our work strives for not only publishing in the best venues, but more importantly for achieving elegance and impact, both conceptual and practical. If you are interested, please feel free to drop me an email (zhongxing.yu@sdu.edu.cn). 
+$\color{red}{I am actively looking for self-motivated and talented students at different levels (PhD students, post-docs, master students, undergratuate students) to join my research group, students that are good at programming and(or) enjoy working on the formal side of programming are especially welcome.}$ We aim at tackling crucial, pressing, difficult problems via principled, elegant, practical solutions. Our work strives for not only publishing in the best venues, but more importantly for achieving elegance and impact, both conceptual and practical. If you are interested, please feel free to drop me an email (zhongxing.yu@sdu.edu.cn). 
 
 ---
 
