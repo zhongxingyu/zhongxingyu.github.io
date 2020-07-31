@@ -14,11 +14,11 @@ Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus.
 
 <b>[A Snowballing Literature Study on Test Amplification](https://www.sciencedirect.com/science/article/pii/S0164121219301736)</b> <br> 
 Benjamin Danglot, Oscar Vera-Perez, <b>Zhongxing Yu</b>, Andy Zaidman, Martin Monperrus, and Benoit Baudry.
-<i>Journal of Systems and Software (Online First, August 2019) </i>. <b>(JSS)</b>. 
+<i>Journal of Systems and Software </i>. <b>(JSS)</b>. 
 
 <b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
 <b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus.
-<i>IEEE Transactions on Software Engineering (Online First, April 2019)</i>. <b>(TSE)</b>. 
+<i>IEEE Transactions on Software Engineering </i>. <b>(TSE)</b>. 
 
 <b>[Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System](https://link.springer.com/article/10.1007/s10664-018-9619-4)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Benjamin Danglot, Thomas Durieux, and Martin Monperrus.
