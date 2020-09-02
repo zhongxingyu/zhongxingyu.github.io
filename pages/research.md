@@ -6,7 +6,7 @@ description: Zhongxing Yu's research
 
 <b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction](https://arxiv.org/abs/1907.09282)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Tegawendé f. Bissyandé, and Martin Monperrus.
-<i>Under Review at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
+<i>Major Revision at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
 
 <b>[Production-Driven Patch Generation and Validation]({{ BASE_PATH}}/pages/submitted_papers/TOSEM-submission.pdf)</b> <br> 
 Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus. 
@@ -14,15 +14,15 @@ Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus.
 
 <b>[A Snowballing Literature Study on Test Amplification](https://www.sciencedirect.com/science/article/pii/S0164121219301736)</b> <br> 
 Benjamin Danglot, Oscar Vera-Perez, <b>Zhongxing Yu</b>, Andy Zaidman, Martin Monperrus, and Benoit Baudry.
-<i>Journal of Systems and Software </i>. <b>(JSS)</b>. 
+<i>Journal of Systems and Software </i>. <b>(JSS, 2019)</b>. 
 
 <b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
 <b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus.
-<i>IEEE Transactions on Software Engineering </i>. <b>(TSE)</b>. 
+<i>IEEE Transactions on Software Engineering </i>. <b>(TSE, 2019)</b>. 
 
 <b>[Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System](https://link.springer.com/article/10.1007/s10664-018-9619-4)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Benjamin Danglot, Thomas Durieux, and Martin Monperrus.
-<i>Empirical Software Engineering Journa</i>. <b>(EmSE)</b>. 
+<i>Empirical Software Engineering Journal</i>. <b>(EmSE, 2018)</b>. 
 
 <b>[How to Design a Program Repair Bot? Insights from the Repairnator Project](https://dl.acm.org/citation.cfm?id=3183540)</b> <br> 
 Simon Urli, <b>Zhongxing Yu</b>, Lionel Seinturier, and Martin Monperrus.
