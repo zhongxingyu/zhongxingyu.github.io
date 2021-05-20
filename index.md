@@ -9,7 +9,7 @@ I have been a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [Sc
 
 
 
-My general research interests are in programming language, software engineering, and machine learning, in particular I am excited about working at the intersection between them. My current research program has a particular focus on the areas of [program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) and [program repair](https://hal.archives-ouvertes.fr/hal-01206501/file/survey-automatic-repair.pdf), and the research goal is to make programming easier and programs more robust.
+My general research interests are in programming language, software engineering, and formal methods. My current research program has a particular focus on the areas of [program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) and [program repair](https://hal.archives-ouvertes.fr/hal-01206501/file/survey-automatic-repair.pdf), and the research goal is to make programming easier and programs more robust.
 
 
 
