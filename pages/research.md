@@ -13,7 +13,7 @@ Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus.
 <i>Major Revision at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
 
 <b>[A Software Repair Bot based on Continual Learning](https://ieeexplore.ieee.org/abstract/document/9393494)</b> <br> 
-Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, He Ye, <b>Zhongxing Yu</b> <b> (Equal Contribution) </b>.
+Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, He Ye, <b>Zhongxing Yu</b> <b> (Equal Contribution, Sorted by Alphabetical Order) </b>.  
 <i>IEEE Software </i>. <b>(IEEE Software 2021)</b>. 
 
 <b>[A Snowballing Literature Study on Test Amplification](https://www.sciencedirect.com/science/article/pii/S0164121219301736)</b> <br> 
