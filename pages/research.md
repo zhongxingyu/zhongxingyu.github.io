@@ -4,13 +4,13 @@ title: Publications
 description: Zhongxing Yu's research
 ---
 
-<b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction](https://arxiv.org/abs/1907.09282)</b> <br> 
-<b>Zhongxing Yu</b>, Matias Martinez, Tegawendé f. Bissyandé, and Martin Monperrus.
-<i>Major Revision at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
+<b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction] </b> <br> 
+<b>Zhongxing Yu</b>, Matias Martinez, Zimin Chen, Tegawendé f. Bissyandé, and Martin Monperrus.
+<i>To Appear at IEEE Transactions on Software Engineering</i>. <b>(TSE)</b>. 
 
-<b>[Production-Driven Patch Generation and Validation]({{ BASE_PATH}}/pages/submitted_papers/TOSEM-submission.pdf)</b> <br> 
-Thomas Durieux, <b>Zhongxing Yu</b>, Youssef Hamadi, and Martin Monperrus. 
-<i>Major Revision at ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM)</b>. 
+<b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization]</b> <br> 
+Yali Du, <b>Zhongxing Yu</b>. 
+<i>To Appear at ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2023</i>. <b>(ESEC/FSE 2023)</b>. 
 
 <b>[A Software Repair Bot based on Continual Learning](https://ieeexplore.ieee.org/abstract/document/9393494)</b> <br> 
 Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, He Ye, <b>Zhongxing Yu</b> <b> (Equal Contribution, Sorted by Alphabetical Order) </b>.  
