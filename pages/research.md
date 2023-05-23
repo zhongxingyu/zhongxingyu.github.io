@@ -4,9 +4,9 @@ title: Publications
 description: Zhongxing Yu's research
 ---
 
-<b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction] </b> <br> 
+<b>[Learning the Relation between Code Features and Code Transforms with Structured Prediction](https://ieeexplore.ieee.org/document/10130317)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Zimin Chen, Tegawendé f. Bissyandé, and Martin Monperrus.
-<i>To Appear at IEEE Transactions on Software Engineering</i>. <b>(TSE)</b>. 
+<i>To Appear at IEEE Transactions on Software Engineering</i>. <b>(TSE 2023)</b>. 
 
 <b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization]</b> <br> 
 Yali Du, <b>Zhongxing Yu</b>. 
@@ -16,13 +16,13 @@ Yali Du, <b>Zhongxing Yu</b>.
 Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, He Ye, <b>Zhongxing Yu</b> <b> (Equal Contribution, Sorted by Alphabetical Order) </b>.  
 <i>IEEE Software </i>. <b>(IEEE Software 2021)</b>. 
 
+<b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
+<b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus.
+<i>IEEE Transactions on Software Engineering </i>. <b>(TSE, 2021)</b>. 
+
 <b>[A Snowballing Literature Study on Test Amplification](https://www.sciencedirect.com/science/article/pii/S0164121219301736)</b> <br> 
 Benjamin Danglot, Oscar Vera-Perez, <b>Zhongxing Yu</b>, Andy Zaidman, Martin Monperrus, and Benoit Baudry.
 <i>Journal of Systems and Software </i>. <b>(JSS, 2019)</b>. 
-
-<b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
-<b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus.
-<i>IEEE Transactions on Software Engineering </i>. <b>(TSE, 2019)</b>. 
 
 <b>[Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System](https://link.springer.com/article/10.1007/s10664-018-9619-4)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Benjamin Danglot, Thomas Durieux, and Martin Monperrus.
