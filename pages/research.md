@@ -8,10 +8,6 @@ description: Zhongxing Yu's research
 <b>Zhongxing Yu</b>, Matias Martinez, Zimin Chen, Tegawendé f. Bissyandé, and Martin Monperrus.
 <i>To Appear at IEEE Transactions on Software Engineering</i>. <b>(TSE 2023)</b>. 
 
-<b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization]</b> <br> 
-Yali Du, <b>Zhongxing Yu</b>. 
-<i>To Appear at ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 2023</i>. <b>(ESEC/FSE 2023)</b>. 
-
 <b>[A Software Repair Bot based on Continual Learning](https://ieeexplore.ieee.org/abstract/document/9393494)</b> <br> 
 Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, He Ye, <b>Zhongxing Yu</b> <b> (Equal Contribution, Sorted by Alphabetical Order) </b>.  
 <i>IEEE Software </i>. <b>(IEEE Software 2021)</b>. 
