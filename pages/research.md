@@ -4,12 +4,12 @@ title: Publications
 description: Zhongxing Yu's research
 ---
 
-<b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization] </b> <br> 
+<b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization](https://arxiv.org/abs/2308.12773)</b> <br> 
 Yali Du, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering </i>. <b>(ESEC/FSE 2023)</b>.
 
 
-<b>[Understanding Solidity Event Logging Practices in the Wild] </b> <br> 
+<b>[Understanding Solidity Event Logging Practices in the Wild](https://arxiv.org/abs/2308.12788)</b> <br> 
 Lantian Li, Yejian Liang, Zhihao Liu, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering </i>. <b>(ESEC/FSE 2023)</b>.
 
