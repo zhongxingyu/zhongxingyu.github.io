@@ -3,6 +3,10 @@ layout: page
 title: Publications
 description: Zhongxing Yu's research
 ---
+<b>[Exploring and Unleashing the Power of Large Language Models in Automated Code Translation](https://arxiv.org/pdf/2404.14646)</b> <br> 
+Zhen Yang, Fang Liu, <b>Zhongxing Yu</b>, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li <br>
+<i>Proceedings of 32nd ACM International Conference on the Foundations of Software Engineering </i>. <b>(FSE 2024)</b>.
+
 
 <b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization](https://arxiv.org/abs/2308.12773)</b> <br> 
 Yali Du, <b>Zhongxing Yu</b>. <br>
