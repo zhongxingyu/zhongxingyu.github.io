@@ -3,7 +3,7 @@ layout: page
 title: Selected Publications
 description: Zhongxing Yu's research
 ---
-<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations]</b> <br> 
+<b>Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations</b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering: Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
 
