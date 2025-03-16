@@ -3,12 +3,16 @@ layout: page
 title: Selected Publications
 description: Zhongxing Yu's research
 ---
+<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations]</b> <br> 
+Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
+<i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering: Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
+
 <b>[Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond](https://arxiv.org/pdf/2404.14824)</b> <br> 
-Pengyu Xue, Linhao Wu, <b>Zhongxing Yu</b>, Zhi Jin, Zhen Yang, Xinyi Li, Zhenyu Yang, Yue Tan <br>
+Pengyu Xue, Linhao Wu, <b>Zhongxing Yu</b>, Zhi Jin, Zhen Yang, Xinyi Li, Zhenyu Yang, Yue Tan. <br>
 <i>IEEE Transactions on Software Engineering </i>. <b>(TSE 2024)</b>.
 
 <b>[Exploring and Unleashing the Power of Large Language Models in Automated Code Translation](https://arxiv.org/pdf/2404.14646)</b> <br> 
-Zhen Yang, Fang Liu, <b>Zhongxing Yu</b>, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li <br>
+Zhen Yang, Fang Liu, <b>Zhongxing Yu</b>, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li. <br>
 <i>Proceedings of 32nd ACM International Conference on the Foundations of Software Engineering </i>. <b>(FSE 2024)</b>.
 
 <b>[Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization](https://arxiv.org/abs/2308.12773)</b> <br> 
