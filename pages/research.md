@@ -3,9 +3,9 @@ layout: page
 title: Selected Publications
 description: Zhongxing Yu's research
 ---
-<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321)</b> <br> 
+<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations] </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
-<i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering: Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
+<i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering</i>. <b>(FSE 2025)</b>.
 
 <b>[Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond](https://arxiv.org/pdf/2404.14824)</b> <br> 
 Pengyu Xue, Linhao Wu, <b>Zhongxing Yu</b>, Zhi Jin, Zhen Yang, Xinyi Li, Zhenyu Yang, Yue Tan. <br>
