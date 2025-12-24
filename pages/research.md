@@ -3,9 +3,17 @@ layout: page
 title: Selected Publications
 description: Zhongxing Yu's research
 ---
-<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations] </b> <br> 
+<b>[Understanding Inconsistent State Update Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2508.06192)</b> <br> 
+Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
+<i>Revision at ACM Transactions on Software Engineering and Methodology </i>. 
+
+<b>[Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment](https://arxiv.org/abs/2505.02629)</b> <br> 
+Zhenyu Yang, Jingwen Wu, Zhen Yang, <b>Zhongxing Yu</b>. <br>
+<i>Revision at IEEE Transactions on Software Engineering </i>. 
+
+<b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321) </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
-<i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering</i>. <b>(FSE 2025)</b>.
+<i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering:Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
 
 <b>[Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond](https://arxiv.org/pdf/2404.14824)</b> <br> 
 Pengyu Xue, Linhao Wu, <b>Zhongxing Yu</b>, Zhi Jin, Zhen Yang, Xinyi Li, Zhenyu Yang, Yue Tan. <br>
