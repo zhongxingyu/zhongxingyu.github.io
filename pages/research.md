@@ -3,13 +3,6 @@ layout: page
 title: Selected Publications
 description: Zhongxing Yu's research
 ---
-<b>[Understanding Inconsistent State Update Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2508.06192)</b> <br> 
-Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
-<i>Revision at ACM Transactions on Software Engineering and Methodology </i>. 
-
-<b>[Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment](https://arxiv.org/abs/2505.02629)</b> <br> 
-Zhenyu Yang, Jingwen Wu, Zhen Yang, <b>Zhongxing Yu</b>. <br>
-<i>Revision at IEEE Transactions on Software Engineering </i>. 
 
 <b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321) </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
