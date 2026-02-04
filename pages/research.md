@@ -4,6 +4,10 @@ title: Selected Publications
 description: Zhongxing Yu's research
 ---
 
+<b>[Understanding Query Optimization Bugs in Graph Database Systems] </b> <br> 
+Yuyu Chen, <b>Zhongxing Yu</b>. <br>
+<i>Proceedings of 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems </i>. <b>(ASPLOS 2026)</b>.
+
 <b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321) </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering:Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
