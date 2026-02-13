@@ -8,6 +8,10 @@ description: Zhongxing Yu's research
 Yuyu Chen, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems </i>. <b>(ASPLOS 2026)</b>.
 
+<b>[Understanding Inconsistent State Update Vulnerabilities in Smart Contracts ](https://arxiv.org/pdf/2508.06192) </b> <br> 
+Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
+<i>ACM Transactions on Software Engineering and Methodology (TOSEM) </i>. <b>(TOSEM 2026)</b>.
+
 <b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321) </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 33rd ACM International Conference on the Foundations of Software Engineering:Ideas, Visions, and Reflections track</i>. <b>(FSE-IVR 2025)</b>.
@@ -34,11 +38,11 @@ Lantian Li, Yejian Liang, Zhihao Liu, <b>Zhongxing Yu</b>. <br>
 
 <b>[Characterizing the Usage, Evolution and Impact of Java Annotations in Practice](https://ieeexplore.ieee.org/abstract/document/8686056)</b> <br> 
 <b>Zhongxing Yu</b>, Chenggang Bai, Lionel Seinturier, and Martin Monperrus. <br>
-<i>IEEE Transactions on Software Engineering </i>. <b>(TSE, 2021)</b>. 
+<i>IEEE Transactions on Software Engineering </i>. <b>(TSE 2021)</b>. 
 
 <b>[Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System](https://link.springer.com/article/10.1007/s10664-018-9619-4)</b> <br> 
 <b>Zhongxing Yu</b>, Matias Martinez, Benjamin Danglot, Thomas Durieux, and Martin Monperrus. <br>
-<i>Empirical Software Engineering Journal</i>. <b>(EmSE, 2018)</b>. 
+<i>Empirical Software Engineering Journal</i>. <b>(EmSE 2018)</b>. 
 
 <b>[How to Design a Program Repair Bot? Insights from the Repairnator Project](https://dl.acm.org/citation.cfm?id=3183540)</b> <br> 
 Simon Urli, <b>Zhongxing Yu</b>, Lionel Seinturier, and Martin Monperrus. <br>
