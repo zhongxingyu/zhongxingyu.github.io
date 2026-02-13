@@ -10,7 +10,7 @@ Yuyu Chen, <b>Zhongxing Yu</b>. <br>
 
 <b>[Understanding Inconsistent State Update Vulnerabilities in Smart Contracts ](https://arxiv.org/pdf/2508.06192) </b> <br> 
 Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
-<i>ACM Transactions on Software Engineering and Methodology (TOSEM) </i>. <b>(TOSEM 2026)</b>.
+<i>ACM Transactions on Software Engineering and Methodology </i>. <b>(TOSEM 2026)</b>.
 
 <b>[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](https://arxiv.org/abs/2504.04321) </b> <br> 
 Jingwen Wu, Jiajing Zheng, Zhenyu Yang, <b>Zhongxing Yu</b>. <br>
