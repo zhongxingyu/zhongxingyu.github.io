@@ -4,9 +4,13 @@ title: Selected Publications
 description: Zhongxing Yu's research
 ---
 
-<b>[Understanding Query Optimization Bugs in Graph Database Systems] </b> <br> 
+<b>[Understanding Query Optimization Bugs in Graph Database Systems]</b> <br> 
 Yuyu Chen, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems </i>. <b>(ASPLOS 2026)</b>.
+
+<b>[Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment](https://arxiv.org/pdf/2505.02629)</b> <br> 
+Zhenyu Yang, Jingwen Wu, Zhen Yang, <b>Zhongxing Yu</b>. <br>
+<i>IEEE Transactions on Software Engineering </i>. <b>(TSE 2026)</b>.
 
 <b>[Understanding Inconsistent State Update Vulnerabilities in Smart Contracts ](https://arxiv.org/pdf/2508.06192) </b> <br> 
 Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
