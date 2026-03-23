@@ -4,7 +4,7 @@ title: Selected Publications
 description: Zhongxing Yu's research
 ---
 
-<b>[Understanding Query Optimization Bugs in Graph Database Systems]</b> <br> 
+<b>[Understanding Query Optimization Bugs in Graph Database Systems](https://dl.acm.org/doi/epdf/10.1145/3779212.3790244)</b> <br> 
 Yuyu Chen, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems </i>. <b>(ASPLOS 2026)</b>.
 
