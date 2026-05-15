@@ -19,7 +19,7 @@ Zhenyu Yang, Jingwen Wu, Zhen Yang, <b>Zhongxing Yu</b>. <br>
 Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, <b>Zhongxing Yu</b>. <br>
 <i>ACM Transactions on Software Engineering and Methodology</i>. <b>(TOSEM 2026)</b>.
 
-<b>[Contamination Means Overestimation? A Fine-grained Empirical Study in Code Intelligence]</b> <br> 
+<b>Contamination Means Overestimation? A Fine-grained Empirical Study in Code Intelligence</b> <br> 
 Zhen Yang, Hongyi Lin, Yifan He, Junqi Wang, Zeyu Sun, Shuo Liu, Jie Xu, Pengpeng Wang, <b>Zhongxing Yu</b>, Qingyuan Liang. <br>
 <i>Proceedings of 35th SIGSOFT International Symposium on Software Testing and Analysis</i>. <b>(ISSTA 2026)</b>.
 

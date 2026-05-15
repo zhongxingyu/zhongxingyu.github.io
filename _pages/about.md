@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work experience
 
-- Research professor (Jul/2020 - now), [Shandong University (SDU)](https://www.en.sdu.edu.cn/), China
+- Professor (Jul/2020 - now), [Shandong University (SDU)](https://www.en.sdu.edu.cn/), China
 
 - Postdoctoral researcher (Feb/2018 - May/2020)
   - [KTH Royal Institute of Technology](https://www.kth.se/en), Sweden
