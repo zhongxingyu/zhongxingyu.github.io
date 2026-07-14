@@ -11,6 +11,10 @@ author_profile: true
 Yuyu Chen, <b>Zhongxing Yu</b>. <br>
 <i>Proceedings of 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>(ASPLOS 2026)</b>.
 
+<b>[GREClue: Failure Indexing with Graph-Based Failure Representation and Entropy-Based Deep Clustering](https://dl.acm.org/doi/abs/10.1145/3808118)</b> <br> 
+Yuyu Chen, <b>Zhongxing Yu</b>. <br>
+<i>Proceedings Proceedings of the 34th Foundations of Software Engineering</i>. <b>(FSE 2026)</b>.
+
 <b>[Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment](https://arxiv.org/pdf/2505.02629)</b> <br> 
 Zhenyu Yang, Jingwen Wu, Zhen Yang, <b>Zhongxing Yu</b>. <br>
 <i>IEEE Transactions on Software Engineering</i>. <b>(TSE 2026)</b>.
